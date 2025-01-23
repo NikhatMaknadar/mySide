@@ -1,0 +1,47 @@
+[
+    {
+        "title": "Cenima Mate",
+        "imageSrc": "/assets/projects/CenimaMate.png",
+        "description": "Cinema Mate is a responsive movie streaming app.It showcases my skills in front-end development and user interface design.",
+        "skills": [
+            "React",
+            "Express",
+            "Node",
+            "javascript",
+            "Tailwind"
+        ],
+        "demo": "https://moviemate-mm.netlify.app/",
+        "source": "https://github.com/NikhatMaknadar/movieMate"
+    },
+    {
+        "title": "CodeBook",
+        "imageSrc": "/assets/projects/codeBook.png",
+        "description": "CodeBook is a e-commerce platform for buying and reviewing books, featuring secure user authentication and seamless navigation. it ensures a secure and efficient user experience, deployed on Vercel.",
+        "skills": [
+            "React",
+            "javascript",
+            "Tailwind",
+            "TMDB",
+            "Node",
+            "Express"
+        ],
+        "demo": "https://allcodebooks.netlify.app/",
+        "source": "//github.com/NikhatMaknadar/codebook"
+    },
+    {
+        "title": "EzChat",
+        "imageSrc": "/assets/projects/EzChat.png",
+        "description": "EzChat is a real-time chat application.It features user authentication, group chats, and responsive design, showcasing seamless real-time communication.",
+        "skills": [
+            "React",
+            "Express",
+            "Node",
+            "javascript",
+            "MongoDB",
+            "chakra ui",
+            "socket io"
+        ],
+        "demo": "https://github.com/NikhatMaknadar/EzChat",
+        "source": "https://github.com/NikhatMaknadar/EzChat"
+    }
+]
