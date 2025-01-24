@@ -14,7 +14,7 @@ const Hero = () => {
                 <p className={styles.description}>
                     If you`re looking for a dedicated and driven developer to join your team, let’s connect! Together, we can create web solutions that leave a lasting impact.
                 </p>
-                <a href="#contact" className={styles.contactBtn}>Contact Me</a>
+                <a href="mailto:nikhatmakandar30@gmail.com" target="_blank" className={styles.contactBtn}>Contact Me</a>
             </div>
             <img className={styles.heroImg} src={"https://res.cloudinary.com/nikhat/image/upload/v1737722898/portfolio/xv1nqltreuaf68tgz53g.jpg"} />
             <div className={styles.topBlur} />
