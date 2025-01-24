@@ -15,7 +15,7 @@
     },
     {
         "title": "CodeBook",
-        "imageSrc": "/assets/projects/codeBook.png",
+        "imageSrc": "https://res.cloudinary.com/nikhat/image/upload/v1737725823/portfolio/v283iejogtegdzvkxeve.jpg",
         "description": "CodeBook is a e-commerce platform for buying and reviewing books, featuring secure user authentication and seamless navigation. it ensures a secure and efficient user experience, deployed on Vercel.",
         "skills": [
             "React",
@@ -25,7 +25,7 @@
             "Node",
             "Express"
         ],
-        "demo": "https://res.cloudinary.com/nikhat/image/upload/v1737725823/portfolio/v283iejogtegdzvkxeve.jpg",
+        "demo": "https://allcodebooks.netlify.app/",
         "source": "//github.com/NikhatMaknadar/codebook"
     },
     {
