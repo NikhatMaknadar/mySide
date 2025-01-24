@@ -41,10 +41,10 @@
     },
     {
         "title": "GitHub",
-        "imageSrc": "/assets/skills/gitHub.png"
+        "imageSrc": "https://res.cloudinary.com/nikhat/image/upload/v1737729787/portfolio/vtiuclcfk31yu9rdx5xd.png"
     },
     {
         "title": "Postman",
-        "imageSrc": "/assets/skills/postman.png"
+        "imageSrc": "https://res.cloudinary.com/nikhat/image/upload/v1737729857/portfolio/e3urdpxp4b53jgabkzpn.png"
     }
 ]
