@@ -1,42 +1,42 @@
 [
     {
         "title": "HTML",
-        "imageSrc": "/assets/skills/html.png"
+        "imageSrc": "https://res.cloudinary.com/nikhat/image/upload/v1737722970/portfolio/iqmhq0yxwjkgql4hx7mu.png"
     },
     {
         "title": "CSS",
-        "imageSrc": "/assets/skills/css.png"
+        "imageSrc": "https://res.cloudinary.com/nikhat/image/upload/v1737722975/portfolio/fnvykrofe69i9dmipqj3.png"
     },
     {
         "title": "Javascript",
-        "imageSrc": "/assets/skills/javascript.png"
+        "imageSrc": "https://res.cloudinary.com/nikhat/image/upload/v1737722979/portfolio/bx7opsbbibvl1sg6ewbw.png"
     },
     {
         "title": "React",
-        "imageSrc": "/assets/skills/react.png"
+        "imageSrc": "https://res.cloudinary.com/nikhat/image/upload/v1737722990/portfolio/hqtmra4a4u04ompi7g52.pngg"
     },
     {
         "title": "Node",
-        "imageSrc": "/assets/skills/node.png"
+        "imageSrc": "https://res.cloudinary.com/nikhat/image/upload/v1737722985/portfolio/jom474i2zrau7ee9qo26.png"
     },
     {
         "title": "Express",
-        "imageSrc": "/assets/skills/express.png"
+        "imageSrc": "https://res.cloudinary.com/nikhat/image/upload/v1737722972/portfolio/euqr56u9wwd00onofgqz.png"
     },
     {
         "title": "MongoDB",
-        "imageSrc": "/assets/skills/mongodb.png"
+        "imageSrc": "https://res.cloudinary.com/nikhat/image/upload/v1737722983/portfolio/vwiq2pladduajbz91c5e.png"
     },
     {
         "title": "Bootstrap",
-        "imageSrc": "/assets/skills/bootstrap.png"
+        "imageSrc": "https://res.cloudinary.com/nikhat/image/upload/v1737722965/portfolio/hrnkcij8nmx0jkjq0vnj.png"
     },
     {
         "title": "Tailwind",
-        "imageSrc": "/assets/skills/tailwind.png"
+        "imageSrc": "https://res.cloudinary.com/nikhat/image/upload/v1737722988/portfolio/reitdercbkohjazvlexd.png"
     },
     {
         "title": "Chakra ui",
-        "imageSrc": "/assets/skills/chakra ui.png"
+        "imageSrc": "https://res.cloudinary.com/nikhat/image/upload/v1737722968/portfolio/yundme6liqjtgboqvcal.png"
     }
 ]

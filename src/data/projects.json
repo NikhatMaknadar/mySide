@@ -1,7 +1,7 @@
 [
     {
         "title": "Cenima Mate",
-        "imageSrc": "/assets/projects/CenimaMate.png",
+        "imageSrc": "https://res.cloudinary.com/nikhat/image/upload/v1737725821/portfolio/ioyyznjy1vonpkrjpi1c.jpg",
         "description": "Cinema Mate is a responsive movie streaming app.It showcases my skills in front-end development and user interface design.",
         "skills": [
             "React",
@@ -25,12 +25,12 @@
             "Node",
             "Express"
         ],
-        "demo": "https://allcodebooks.netlify.app/",
+        "demo": "https://res.cloudinary.com/nikhat/image/upload/v1737725823/portfolio/v283iejogtegdzvkxeve.jpg",
         "source": "//github.com/NikhatMaknadar/codebook"
     },
     {
         "title": "EzChat",
-        "imageSrc": "/assets/projects/EzChat.png",
+        "imageSrc": "https://res.cloudinary.com/nikhat/image/upload/v1737725826/portfolio/nr9h2mdhhdj6dw2dsxn4.jpg",
         "description": "EzChat is a real-time chat application.It features user authentication, group chats, and responsive design, showcasing seamless real-time communication.",
         "skills": [
             "React",
