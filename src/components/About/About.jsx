@@ -13,7 +13,7 @@ const About = () => {
                 />
                 <ul className={styles.aboutItems}>
                     <li className={styles.aboutItem}>
-                        <img src="/assets/about/cursorIcon.png" alt="Cursor icon" />
+                        <img src="https://res.cloudinary.com/nikhat/image/upload/v1737721884/portfolio/tgk30tbm8d7d3jhkycf1.png" alt="Cursor icon" />
                         <div className={styles.aboutItemText}>
                             <h3>Frontend Developer</h3>
                             <p>
