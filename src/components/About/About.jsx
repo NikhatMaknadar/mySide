@@ -7,7 +7,7 @@ const About = () => {
             <h2 className={styles.title}>About</h2>
             <div className={styles.content}>
                 <img
-                    src="/assets/about/mypic.png"
+                    src="https://res.cloudinary.com/nikhat/image/upload/v1737722570/portfolio/t6u6f8b0ezpmjoyjycsw.jpg"
                     alt="Me sitting with a laptop"
                     className={styles.aboutImage}
                 />
@@ -23,7 +23,7 @@ const About = () => {
                         </div>
                     </li>
                     <li className={styles.aboutItem}>
-                        <img src="/assets/about/serverIcon.png" alt="Server icon" />
+                        <img src="https://res.cloudinary.com/nikhat/image/upload/v1737722630/portfolio/t6lrfksdqbadotzsmm4n.png" alt="Server icon" />
                         <div className={styles.aboutItemText}>
                             <h3>Backend Developer</h3>
                             <p>

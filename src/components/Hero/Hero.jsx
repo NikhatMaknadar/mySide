@@ -16,7 +16,7 @@ const Hero = () => {
                 </p>
                 <a href="#contact" className={styles.contactBtn}>Contact Me</a>
             </div>
-            <img className={styles.heroImg} src={"/assets/hero/mypic2.jpg"} />
+            <img className={styles.heroImg} src={"https://res.cloudinary.com/nikhat/image/upload/v1737722898/portfolio/xv1nqltreuaf68tgz53g.jpg"} />
             <div className={styles.topBlur} />
             <div className={styles.bottomBlur} />
         </section>
