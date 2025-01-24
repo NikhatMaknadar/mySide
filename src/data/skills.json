@@ -13,7 +13,7 @@
     },
     {
         "title": "React",
-        "imageSrc": "https://res.cloudinary.com/nikhat/image/upload/v1737722990/portfolio/hqtmra4a4u04ompi7g52.pngg"
+        "imageSrc": "https://res.cloudinary.com/nikhat/image/upload/v1737722990/portfolio/hqtmra4a4u04ompi7g52.png"
     },
     {
         "title": "Node",
@@ -38,5 +38,13 @@
     {
         "title": "Chakra ui",
         "imageSrc": "https://res.cloudinary.com/nikhat/image/upload/v1737722968/portfolio/yundme6liqjtgboqvcal.png"
+    },
+    {
+        "title": "GitHub",
+        "imageSrc": "/assets/skills/gitHub.png"
+    },
+    {
+        "title": "Postman",
+        "imageSrc": "/assets/skills/postman.png"
     }
 ]
